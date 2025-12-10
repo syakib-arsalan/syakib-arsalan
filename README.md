@@ -1,5 +1,22 @@
 ![Header](./assets/github-header-banner.png)
-<h5>Skills</h5>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=syakib-arsalan.syakib-arsalan&"  />
+</div>
+
+###
+
+<div align="center">
+    <a href="https://arsalans.my.id">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+</div>
+
+###
+
+<h4>Skills</h4>
 
 ###
 
