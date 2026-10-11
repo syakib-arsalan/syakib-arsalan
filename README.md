@@ -1,23 +1,32 @@
 <img src="./assets/header.jpg" width="100%">
 
-###
+<br>
+
+<h1 align="center">HI I'M 👋 SYAKIB ARSALAN</h1>
+<div align="center">
+<b>FULLSTACK - BLOCKCHAIN - AI/ML<b>
+</div>
+
 <hr>
+
+a developer and aspiring entrepreneur driven by curiosity about technology, business, and the way innovation shapes the future. My journey revolves around exploring software development, building digital solutions, and understanding the systems behind modern technology, from web applications and mobile development to artificial intelligence, machine learning, and blockchain. Beyond writing code, I'm interested in the intersection of technology, business strategy, and investment, where technical knowledge can become a foundation for creating meaningful products and long-term value. I believe growth comes from continuous learning, experimenting with new ideas, and having the courage to turn concepts into reality. Every project I build and every problem I solve is another step toward my long-term vision of becoming a technology entrepreneur and investor who creates solutions that make a real difference.
+
+<hr>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syakib-arsalan/syakib-arsalan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syakib-arsalan/syakib-arsalan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syakib-arsalan/syakib-arsalan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br>
 <div align="center">
-  <h1>Hi Im, SYAKIB ARSALAN</h1>
-  
-###
+<h1>SKILLS</h1>
 </div>
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syakib-arsalan.syakib-arsalan&"  />
-</div>
-
-###
-
-<h4>Skills</h4>
 
 ###
 
@@ -31,8 +40,15 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syakib-arsalan/syakib-arsalan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syakib-arsalan/syakib-arsalan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syakib-arsalan/syakib-arsalan/output/pacman-contribution-graph.svg">
-</picture>
+<br>
+<div align="center">
+<h1>CONNECT</h1>
+</div>
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord" />
+  </a>
+</p>
