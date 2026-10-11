@@ -1,4 +1,13 @@
-![Header](./assets/github-header-banner.png)
+![Header]
+<img src="./assets/header.jpg" width="100%">
+
+###
+
+---
+###
+# <center> Hi Im, SYAKIB ARSALAN</center>
+###
+---
 
 ###
 
