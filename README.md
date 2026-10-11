@@ -1,13 +1,11 @@
-![Header]
 <img src="./assets/header.jpg" width="100%">
 
 ###
+<hr>
+<div align="center">
+  <h1>Hi Im, SYAKIB ARSALAN</h1>
+</div>
 
----
-###
-# <center> Hi Im, SYAKIB ARSALAN</center>
-###
----
 
 ###
 
